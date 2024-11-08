@@ -1,0 +1,16 @@
+D:\Studries\C#\Lecture-84\Lecture-84\bin\Debug\net8.0-windows\Lecture-84.exe
+D:\Studries\C#\Lecture-84\Lecture-84\bin\Debug\net8.0-windows\Lecture-84.deps.json
+D:\Studries\C#\Lecture-84\Lecture-84\bin\Debug\net8.0-windows\Lecture-84.runtimeconfig.json
+D:\Studries\C#\Lecture-84\Lecture-84\bin\Debug\net8.0-windows\Lecture-84.dll
+D:\Studries\C#\Lecture-84\Lecture-84\bin\Debug\net8.0-windows\Lecture-84.pdb
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture_84.Form1.resources
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.csproj.GenerateResource.cache
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.AssemblyInfoInputs.cache
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.AssemblyInfo.cs
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.csproj.CoreCompileInputs.cache
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.dll
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\refint\Lecture-84.dll
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.pdb
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\Lecture-84.genruntimeconfig.cache
+D:\Studries\C#\Lecture-84\Lecture-84\obj\Debug\net8.0-windows\ref\Lecture-84.dll
